@@ -1,0 +1,33 @@
+{
+  "name": "restexample-mean",
+  "version": "1.0.0",
+  "description": "book api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexander-r-arnold/RESTExample-MEAN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexander-r-arnold/RESTExample-MEAN/issues"
+  },
+  "homepage": "https://github.com/alexander-r-arnold/RESTExample-MEAN#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^2.2.0",
+    "mongoose": "^4.5.6",
+    "nodemon": "^1.9.2",
+    "should": "^10.0.0",
+    "sinon": "^1.17.4"
+  },
+  "devDependencies": {
+    "gulp-env": "^0.4.0",
+    "supertest": "^1.2.0"
+  }
+}
